@@ -1,6 +1,6 @@
 {
   "name": "@audio/window",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "type": "module",
   "sideEffects": false,
   "description": "Audio-facing window kit — typed fills (periodic/symmetric), apply, COLA check over window-function",
@@ -45,5 +45,6 @@
   "devDependencies": {
     "tst": "^9.4.0",
     "@audio/stft": "^1.0.1"
-  }
+  },
+  "funding": "https://github.com/sponsors/audiojs"
 }
